@@ -10,5 +10,6 @@
 </h1>
 
 <P>  Message : ${message} </P>
+<h3>Footer : footer</h3>
 </body>
 </html>
